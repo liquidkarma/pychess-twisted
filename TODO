@@ -1,0 +1,7 @@
+game bug fixes
+disconnect/stop server options in gui
+finish pgn format implementation
+replay moves from file
+timer setup/countdown
+allow server to monitor multiple games
+game/board test cases
